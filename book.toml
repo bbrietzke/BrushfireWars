@@ -1,0 +1,6 @@
+[book]
+authors = ["Brian Brietzke"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Brushfire Wars"
