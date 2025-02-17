@@ -5,6 +5,7 @@
 # Introduction
 - [Prelude]()
     - [Chaos Campaigns](./introduction/chaosCampaigns.md)
+    - [About the Campaign](./introduction/about.md)
 
 # Rules
 - [Introduction]()
