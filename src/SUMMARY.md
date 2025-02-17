@@ -1,8 +1,10 @@
 # Summary
 
+- [Introduction](./introduction.md)
+
 # Introduction
 - [Prelude]()
-    - [Chaos Campaigns](./chaosCampaigns.md)
+    - [Chaos Campaigns](./introduction/chaosCampaigns.md)
 
 # Rules
 - [Introduction]()
